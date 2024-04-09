@@ -1,12 +1,10 @@
 # Student-Spending-Analysis
 
 ### Project Overview
-
-This project aims to gather insights about the sales performance of a large retail store in recent years. By examining different elements of the sales data, the project aims to identify patterns, offer data-driven suggestions, and develop a more comprehensive understanding of the store's overall performance. 
+This project entails a detailed examination of the expenditure patterns among students, focusing on how they allocate their monthly income and utilize the financial aid provided within a specific educational institution.
 
 ### Data sources
-
-The primary dataset used for this analysis is the "Superstore" dataset from Excel's sample datasets" file, containing detailed information about each sale made by the company
+The main dataset utilized for this analysis is the "student_spending" dataset sourced from the Kaggle website.
 
 ### Tools used
 - Excel - Data Cleaning 
@@ -16,16 +14,16 @@ The primary dataset used for this analysis is the "Superstore" dataset from Exce
 ### Data Cleaning/Preparation
 In the initial data-cleaning phase, I performed the following tasks;
 - Data loading and inspection
-- Handling inconsistent values
 - Data cleaning and formatting
 
 
 ### Expository Data Analysis(EDA)- Power Bi
 EDA involved exploring the sales data to answer key questions, such as;
 
-- Total sales and profit by Category and Segment
-- Sales trended over time  
-- Top 5 most profitable products
+-Analyzing total spending based on age, gender, and major
+- Identifying the preferred payment method among students.
+- Comparing the financial aid amount and monthly income to each student's total spending.
+
   
 
 

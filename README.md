@@ -20,31 +20,22 @@ In the initial data-cleaning phase, I performed the following tasks;
 ### Expository Data Analysis(EDA)- Power Bi
 EDA involved exploring the sales data to answer key questions, such as;
 
--Analyzing total spending based on age, gender, and major
+- Analyzing total spending based on age, gender, and major
 - Identifying the preferred payment method among students.
 - Comparing the financial aid amount and monthly income to each student's total spending.
-
   
-
-
+![Student Spending Dashboard](https://github.com/Abbythedataanalyst/Student-Spending-Analysis/assets/158297673/1c07622d-ad60-4d55-8c80-c6200ef584dd)
 
 ### Reviews/Findings
+- The analysis revealed significant discrepancies between students' total spending and their monthly income combined with financial aid. Despite receiving financial assistance and having a monthly income, students appear to be spending more than they earn.
 
-- The analysis revealed fluctuations in sales trends over time, with periods of growth and decline. Understanding these trends can help the store anticipate demand and adjust strategies accordingly.
-
-- By examining sales and profit data by category and segment, the project identified the most profitable areas of the business. This insight can inform resource allocation and marketing efforts to maximize profitability.
-
-- The identification of the top five most profitable products provides valuable information for inventory management and marketing strategies. Focusing on these high-performing products will drive sales and improve overall revenue.
-
-### Recommendations
-
-- Strategic Planning: Based on the findings, it is recommended that the store develop a strategic plan to capitalize on periods of growth and mitigate challenges during downturns. This could include adjusting inventory levels, launching targeted promotions, and optimizing pricing strategies.
-
-- Category Optimization: Leveraging insights from the analysis, the store should consider allocating resources towards categories and segments with the highest profitability. Additionally, efforts should be made to identify and address underperforming categories to improve overall sales performance.
+### Recommendation
+- Implement budgeting workshops or financial literacy programs to educate students on responsible spending habits and effective money management techniques.
+- Consider revising the financial aid distribution policy to ensure that students receive adequate support to cover essential expenses without resorting to overspending.
 
 ### Limitations
+- External factors such as individual financial circumstances, personal preferences, and socioeconomic backgrounds may influence spending patterns, which the analysis cannot fully capture.
 
-- The analysis focuses primarily on sales data and may not capture other factors that influence store performance, such as marketing campaigns, competitor actions, or economic conditions. Consideration of these external factors is essential for a holistic understanding of the store's performance.
 
 
 
